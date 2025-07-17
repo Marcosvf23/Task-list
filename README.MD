@@ -1,7 +1,7 @@
-📝 Minha Lista de Tarefas (To-Do List)
+# 📝 Minha Lista de Tarefas (To-Do List)
 Uma aplicação simples e intuitiva de lista de tarefas para te ajudar a organizar seu dia a dia e não esquecer de nada!
 
-
+---
 🌟 Funcionalidades
 Adicionar Tarefas: Adicione novas tarefas de forma rápida e fácil.
 
@@ -11,7 +11,7 @@ Remover Tarefas: Exclua tarefas que não são mais necessárias.
 
 Persistência de Dados: Suas tarefas são salvas no navegador (usando Local Storage), então elas não desaparecem mesmo se você fechar a página.
 
-
+---
 🚀 Como Usar
 Abra o index.html em seu navegador.
 
@@ -23,7 +23,7 @@ Clique em uma tarefa para marcá-la como concluída (ela ficará com um estilo d
 
 Clique no ícone de lixeira ao lado de uma tarefa para removê-la.
 
-
+---
 💻 Tecnologias Utilizadas
 HTML5: Estrutura da página.
 
