@@ -1,0 +1,32 @@
+@media (max-width:1004px) {
+
+    .container{
+    padding: 30px 40px;
+    width: 50%;
+    min-width: 400px;
+    }
+    
+    .new-task-container{
+    padding: 30px 20px;
+    border-radius: 5px;
+    flex-direction: column;
+    justify-content: center;
+    }
+
+    .new-task-container input {
+    flex: 1;
+    font-size: 1rem;
+    border: 2px solid #d1d3d4;
+    border-radius: 5px;
+    padding: 12px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    }
+
+    .new-task-button {
+    flex: 1;
+    padding: 12px;
+    margin-left: 0px;
+}
+
+}
